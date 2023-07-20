@@ -10,3 +10,5 @@ Client wants to create a Road Accident Dashboard for year 2021 and 2022 so that 
 7. Total Casualties and Total Accidents by Location
 
 You can get valuable insights to improve things that will help in future for business growth.
+
+Data set is large in size so I attached the drive link from where I got it - https://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm
